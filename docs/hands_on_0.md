@@ -131,7 +131,7 @@ cd {フォルダ名}
 
 ---
 
-準備編のまとめ（Mermaid図解）
+## 準備編のまとめ（Mermaid図解）
 ```mermaid
 graph TD
     A[GitHubアカウント作成] --> B[GitをPCにインストール]
